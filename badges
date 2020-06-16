@@ -1,0 +1,22 @@
+/* paveiksliukai prie zmogaus chate */
+#chat .badge-box i, .right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;}
+
+/* Delights */
+[data-cid^="10762013-"] .badge-box .bdg,
+#user-rollover.id-10762013 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.imgur.com/5oK1l9e.gif");
+}
+/* Kazkas kitas */
+[data-cid^="00000000-"] .badge-box .bdg,
+#user-rollover.id-00000000 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/2NmEqsU.gif");
+}
